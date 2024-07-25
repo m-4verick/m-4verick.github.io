@@ -20,5 +20,33 @@
       <guid>https://m-4verick.github.io/post/helloblog/</guid>
       <description>Desc Text.</description>
     </item>
+    <item>
+      <title>My 1st post</title>
+      <link>https://m-4verick.github.io/post/helloblog2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://m-4verick.github.io/post/helloblog2/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>My 1st post</title>
+      <link>https://m-4verick.github.io/post/helloblog3/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://m-4verick.github.io/post/helloblog3/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>My 1st post</title>
+      <link>https://m-4verick.github.io/post/helloblog4/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://m-4verick.github.io/post/helloblog4/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>My 1st post</title>
+      <link>https://m-4verick.github.io/post/helloblog5/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://m-4verick.github.io/post/helloblog5/</guid>
+      <description>Desc Text.</description>
+    </item>
   </channel>
 </rss>
